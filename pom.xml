@@ -85,13 +85,13 @@
 			<scope>runtime</scope>
 		</dependency>
 	</dependencies>
-	<distributionManagement>
+	<!-- <distributionManagement>
     <repository>
         <id>central</id>
         <name>ip-172-31-32-107.ap-southeast-1.compute.internal-releases</name>
         <url>http://13.250.120.64:8082/artifactory/libs-snapshot-local</url>
     </repository>
-</distributionManagement>
+</distributionManagement> -->
 
 	<build>
 	   <finalName>we-shopify-platform</finalName>
